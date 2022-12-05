@@ -1,2 +1,2 @@
 # scAGCN
-a graph model
+Graph convolution neural network based on adaptive aggregation mechanism
