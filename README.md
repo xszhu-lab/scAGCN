@@ -1,0 +1,2 @@
+# scAGCN
+a graph model
