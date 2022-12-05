@@ -1,7 +1,7 @@
 # scAGCN
 Graph convolution neural network based on adaptive aggregation mechanism
 
-# Install scAGCN
+# scAGCN requires the environment
 
  `python`(3.6.5)
  
