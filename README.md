@@ -1,7 +1,8 @@
 # scAGCN
 Graph convolution neural network based on adaptive aggregation mechanism
 
-#Install scAGCN
+# Install scAGCN
+
  `python`(3.6.5)
  
  `torch`(1.4.0)
